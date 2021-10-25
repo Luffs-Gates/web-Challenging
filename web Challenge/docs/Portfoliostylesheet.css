@@ -1,0 +1,11 @@
+body{
+   background-image: url("/images/Balance(magazine)-05-2.3.001-bigpicture_05_11.jpg");
+    background-size: cover;
+}
+#text{
+    color: gainsboro;
+    font-style: oblique;
+    display: block;
+    font-size: 300%;
+    padding-left: 400px;
+}
